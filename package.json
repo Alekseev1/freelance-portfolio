@@ -2,7 +2,7 @@
   "name": "html-freelance-portfolio-vite",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Alekseev1/freelance-portfolio",
+  "homepage": "https://Alekseev1.github.io/freelance-portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
