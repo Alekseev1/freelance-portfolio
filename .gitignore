@@ -12,6 +12,7 @@ dist-ssr
 *.local
 .eslintrc.cjs
 README.md
+index.html
 package-lock.json
 package.json
 src/
